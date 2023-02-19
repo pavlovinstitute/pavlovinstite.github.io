@@ -193,6 +193,7 @@ input, select, textarea {
 		border-left: solid 0.5em #ddd;
 		padding: 1em 0 1em 2em;
 		font-style: italic;
+		text-align: center;
 	}
 
 	p {
