@@ -1,2 +1,2 @@
-# pavlovinstite.github.io
+# pavlovinstitute.github.io
 This is the official website of Pavlov Institute.
