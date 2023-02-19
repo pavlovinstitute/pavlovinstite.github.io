@@ -2,5 +2,5 @@
 
 ## Visit us at : 
 
-1. https://www.pavlovinstitute.org/
-2. https://pavlovinstitute.github.io/
+1. https://www.pavlovinstitute.org
+2. https://pavlovinstitute.github.io
