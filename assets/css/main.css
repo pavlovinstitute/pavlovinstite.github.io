@@ -78,7 +78,8 @@ input, select, textarea {
 	}
 
 	body {
-		background: #f0f0f0;
+		/* background: #f0f0f0; */
+		background-color: rgb(222,232,235);
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -95,7 +96,7 @@ input, select, textarea {
 	body, input, textarea, select {
 		font-family: 'Source Sans Pro';
 		font-weight: 300;
-		color: #777;
+		color: #000000;
 		line-height: 1.65em;
 		font-size: 15pt;
 	}
@@ -164,7 +165,7 @@ input, select, textarea {
 
 	strong, b {
 		font-weight: 600;
-		color: #666;
+		color: #000000;
 	}
 
 	em, i {
@@ -1492,7 +1493,7 @@ input, select, textarea {
 		-ms-transition: opacity 0.25s ease-in-out;
 		transition: opacity 0.25s ease-in-out;
 		display: inline-block;
-		border: solid 6px #ebebeb !important;
+		border: solid 6px #000000 !important;
 	}
 	
 		.image:hover {
@@ -1933,14 +1934,25 @@ input, select, textarea {
 				border: 0;
 			}
 
-		#header p {
+			
+		#header h3 {
 			text-transform: uppercase;
 			font-weight: 400;
-			color: #888;
+			color: #424242;
 			margin: 2.5em 0 0 0;
 			font-size: 0.85em;
 			letter-spacing: 3px;
 			text-align: center;
+		}
+
+		#header p {
+			/* text-transform: uppercase; */
+			font-weight: 400;
+			color: #424242;
+			margin: 2.5em 0 0 0;
+			font-size: 0.85em;
+			letter-spacing: 3px;
+			text-align: justify;
 		}
 
 /* Nav */
@@ -1967,7 +1979,7 @@ input, select, textarea {
 				text-decoration: none;
 				text-transform: uppercase;
 				font-weight: 400;
-				color: #777;
+				color: #525252;
 				outline: 0;
 				display: block;
 			}
@@ -2095,6 +2107,7 @@ input, select, textarea {
 
 		#features p {
 			text-align: center;
+			color: #000000;
 		}
 
 		#features ul.actions {
