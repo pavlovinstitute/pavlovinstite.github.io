@@ -6,7 +6,7 @@ body {
 #canvas {
   cursor: none;
   background-color: rgb(255,255,255);
-  height: 135vh;
+  height: 100vh;
   width: 100vw;
   position: relative;
   z-index: 1;
